@@ -9,7 +9,6 @@ Coffee ☕ is how I keep up with < code />
 </p>
 <br />
 
-<img align="center" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="blockchainhsc" height="120" width="150" /></a>
 
 ![chombillyreal GitHub stats](https://github-readme-stats.vercel.app/api?username=chombillyreal&show_icons=true&theme=radical)
 
